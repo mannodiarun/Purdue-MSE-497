@@ -1,0 +1,40 @@
+Material,Tensile Strength (MPa),Density (g/cm^3),Elastic Modulus (GPa)
+Aluminum 6061-T6,310,2.7,69
+Titanium (Ti-6Al-4V),950,4.43,110
+Stainless Steel 304,550,8.0,200
+Copper,210,8.96,110
+Magnesium AZ31,250,1.78,45
+Nickel,600,8.9,200
+Zinc,120,7.14,100
+Inconel 718,1240,8.19,205
+Brass (70Cu-30Zn),350,8.5,110
+Tungsten,550,19.3,400
+Lead,15,11.34,16
+Chromium,275,7.19,279
+Iron (pure),220,7.87,200
+Mild Steel,370,7.85,210
+Tool Steel,800,7.85,210
+Cobalt,760,8.9,210
+Vanadium,690,6.11,128
+Molybdenum,700,10.2,330
+Tantalum,200,16.65,186
+Platinum,125,21.45,168
+Alumina (Al2O3),350,3.95,380
+Zirconia (ZrO2),900,6.1,210
+Silicon Carbide (SiC),400,3.2,410
+Silicon Nitride (Si3N4),500,3.2,310
+Boron Carbide (B4C),450,2.52,460
+Glass (Soda-Lime),50,2.5,70
+Fused Quartz,70,2.2,72
+Boron Nitride,35,2.25,30
+Mullite,200,3.0,150
+Spinel (MgAl2O4),150,3.6,280
+Cordierite,100,2.6,140
+Magnesia (MgO),100,3.58,200
+Yttria-stabilized Zirconia,700,6.1,210
+Titanium Diboride (TiB2),700,4.52,560
+Hafnia (HfO2),400,9.68,210
+Sialon,600,3.2,320
+Lanthanum Hexaboride (LaB6),350,4.72,450
+Uranium Dioxide (UO2),150,10.97,200
+Carbide Tungsten (WC),550,15.63,700
